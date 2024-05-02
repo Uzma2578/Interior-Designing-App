@@ -1,1 +1,1 @@
-# Interior-Designing-App
+This project delves into the fusion of Augmented Reality (AR) technology with interior design, particularly emphasizing furniture visualization and selection. Traditional design approaches often lack interactive and immersive qualities, which can impede effective decision-making. Our solution addresses this challenge by introducing a straightforward mobile AR application, removing the necessity for expensive AR/VR equipment.
